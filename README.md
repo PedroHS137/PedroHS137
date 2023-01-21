@@ -1,6 +1,6 @@
-### Hi there 👋, I am Pedro Herrera :🇲🇽:
+### Hi there 👋, I am Pedro Herrera 
 
-Machine learning and Quantum computing developer
+Machine learning and Quantum computing developer.
 
 ### I am interested in :bulb:: 
   - Machine learning:robot:
